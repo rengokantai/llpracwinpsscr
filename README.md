@@ -71,3 +71,12 @@ Import-Module mn
 ```
 Get-Command -Module Hyper-V
 ```
+#####8 Graphical Reporting
+######8.1 Creating a Simple Chart
+HyperV server manager->Manage->add roles and features..next  
+Features: add .NET Framwwork 3.5  
+search
+```
+microsoft chart controls for microsoft .net framework 3.5
+```
+select MSChart.exe
